@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MatchingGame/static/css/main.5cc4933f.chunk.css",
+    "main.js": "/MatchingGame/static/js/main.44c7878c.chunk.js",
+    "main.js.map": "/MatchingGame/static/js/main.44c7878c.chunk.js.map",
+    "runtime-main.js": "/MatchingGame/static/js/runtime-main.ceeaba87.js",
+    "runtime-main.js.map": "/MatchingGame/static/js/runtime-main.ceeaba87.js.map",
+    "static/js/2.532d351f.chunk.js": "/MatchingGame/static/js/2.532d351f.chunk.js",
+    "static/js/2.532d351f.chunk.js.map": "/MatchingGame/static/js/2.532d351f.chunk.js.map",
+    "static/js/3.b1fcfdf9.chunk.js": "/MatchingGame/static/js/3.b1fcfdf9.chunk.js",
+    "static/js/3.b1fcfdf9.chunk.js.map": "/MatchingGame/static/js/3.b1fcfdf9.chunk.js.map",
+    "index.html": "/MatchingGame/index.html",
+    "static/css/main.5cc4933f.chunk.css.map": "/MatchingGame/static/css/main.5cc4933f.chunk.css.map",
+    "static/js/2.532d351f.chunk.js.LICENSE.txt": "/MatchingGame/static/js/2.532d351f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceeaba87.js",
+    "static/js/2.532d351f.chunk.js",
+    "static/css/main.5cc4933f.chunk.css",
+    "static/js/main.44c7878c.chunk.js"
+  ]
+}
